@@ -1,6 +1,6 @@
 # first-pr-practice
 
-A tiny practise project for learning the GitHub pull request workflow.
+A tiny practice project for learning the GitHub pull request workflow.
 
 ## What's inside
 
