@@ -1,0 +1,10 @@
+{
+  "name": "first-pr-practice",
+  "version": "1.0.0",
+  "description": "A tiny project for practising the GitHub pull request workflow.",
+  "main": "greet.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
